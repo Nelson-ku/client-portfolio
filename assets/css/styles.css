@@ -54,6 +54,7 @@ body {
 
 h1, h2, p {
   margin: 0;
+  
 }
 
 ul {
@@ -262,6 +263,9 @@ img {
 }
 
 .about__subtitle {
+  margin-bottom: var(--mb-2);
+}
+.about__text{
   margin-bottom: var(--mb-2);
 }
 
